@@ -241,11 +241,10 @@ O diagrama em alta resolução está disponível em [`others/DFD.png`](others/DF
 
 ## Limitações e pendências documentadas nesta entrega
 
-- **Push ao GitHub:** não realizado (sem repositório remoto definido/autorizado até o momento).
-  O workflow de CI existe localmente e será validado "ao vivo" assim que o push for feito.
-- **PDF da entrega final:** não há ferramenta de geração de PDF disponível neste ambiente; a
-  entrega final foi salva como `Miguel_Andrade_PB_TP3.md` (Markdown), conforme permitido quando o
-  PDF não está disponível.
+- **Push ao GitHub:** feito — repositório público em https://github.com/miguelwiest/IA_PB_TP3,
+  com o workflow de CI validado "ao vivo" (execução com sucesso após o push).
+- **PDF da entrega final:** gerado a partir de `Miguel_Andrade_PB_TP3.md`
+  (`Miguel_Andrade_PB_TP3.pdf`).
 - **Alvo do teste adversarial (TP4/TP5):** ainda não existe um colega/grupo pareado para o pentest
   adversarial cruzado; `others/planejamento_tp3.md` documenta um placeholder explícito.
 
