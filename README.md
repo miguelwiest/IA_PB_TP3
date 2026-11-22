@@ -255,4 +255,4 @@ O diagrama em alta resolução está disponível em [`others/DFD.png`](others/DF
 
 - **Professor:** Tiago Xavier (`tiago.xavier@prof.infnet.edu.br`)
 - **Autor (TP3):** Miguel Andrade
-- **Repositório Git:** `https://github.com/miguelwiest/miguel_tp3`
+- **Repositório Git:** `https://github.com/miguelwiest/IA_PB_TP3`
