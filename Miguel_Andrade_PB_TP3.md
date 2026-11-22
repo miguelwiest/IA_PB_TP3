@@ -2,7 +2,7 @@
 
 **Nome completo:** Miguel Andrade Wiest de São Pedro
 
-**Link para o repositório Git do projeto:** LINK_DO_REPOSITORIO_GIT_A_DEFINIR
+**Link para o repositório Git do projeto:** https://github.com/miguelwiest/miguel_tp3
 
 ---
 
